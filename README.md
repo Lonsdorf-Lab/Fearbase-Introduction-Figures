@@ -13,7 +13,7 @@ Maria Bruntsch1,2*, Tina B. Lonsdorf1,2*, Fritz Becker1, Annalena Witte1, Conrad
 
 1 Bielefeld University, Department of Psychology, Biological Psychology and Cognitive Neuroscience, Bielefeld, Germany </br> 2 University Medical Center Hamburg-Eppendorf, Department of Systems Neuroscience, Hamburg, Germany </br> 3 Leibniz Institute for Psychology, Trier, Germany </br>
 
-- These authors contributed equally
+\* These authors contributed equally
 
 ## Reproducible environment: rix
 
