@@ -1,0 +1,79 @@
+cff-version: 1.2.0
+title: >-
+  Reproducible Code for the publication "The Fearbase, a 
+  growing database, living analysis platform, and collaborative 
+  consortium for human fear conditioning"
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Maria
+    family-names: Bruntsch
+    email: maria.bruntsch@uni-bielefeld.de
+    affiliation: >-
+      'Bielefeld University, Bielefeld; University Medical Center
+      Hamburg-Eppendorf, Hamburg'
+    orcid: 'https://orcid.org/0009-0007-4933-6305'
+  - given-names: Tina B.
+    family-names: Lonsdorf
+    affiliation: >-
+      'Bielefeld University, Bielefeld; University Medical Center
+      Hamburg-Eppendorf, Hamburg'
+    orcid: 'https://orcid.org/0000-0003-1501-4846'
+  - given-names: Fritz
+    family-names: Becker
+    affiliation: 'Bielefeld University, Bielefeld'
+    orcid: 'https://orcid.org/0000-0003-3889-206X'
+  - given-names: Annalena
+    family-names: Witte
+    affiliation: 'Bielefeld University, Bielefeld'
+  - given-names: Conrad
+    family-names: Alting
+    affiliation: 'Bielefeld University, Bielefeld'
+    orcid: 'https://orcid.org/0009-0002-3287-4418'
+  - given-names: Joel
+    family-names: Beckmann
+    affiliation: 'Leibniz Institute for Psychology, Trier'
+  - given-names: Katarina
+    family-names: Blask
+    affiliation: 'Leibniz Institute for Psychology, Trier'
+  - name: Fearbase Consortium
+  - given-names: Mana R.
+    family-names: Ehlers
+    affiliation: 'Bielefeld University, Bielefeld'
+    orcid: 'https://orcid.org/0000-0002-1316-3787'
+identifiers:
+  - type: doi
+    value: 10.XXXX/zenodo.XXXX
+repository-code: >-
+  https://github.com/Lonsdorf-Lab/Fearbase-Introduction-Figures
+abstract: >-
+  The experimental study of fear learning and memory through
+  fear conditioning paradigms has provided critical insights
+  into the mechanisms underlying threat processing, and the
+  etiology of anxiety- and stress-related disorders.
+  Reliable estimation of effects and generalizability are
+  limited by small sample sizes, in combination with
+  substantial interindividual differences, and
+  methodological heterogeneity. To overcome these
+  challenges, we introduce the “fearbase” - a collaborative,
+  harmonized, and continuously growing database that
+  aggregates individual participant data from human fear
+  conditioning experiments. This resource enables
+  well-powered hypothesis-driven and exploratory analyses,
+  as well as mega- and meta-analytic research. Here, we
+  outline the fearbase content, data access procedures, and
+  consortium structure, and invite researchers to join this
+  effort. As a continuously expanding resource, the fearbase
+  will evolve to incorporate additional measures and
+  experimental designs relevant to fear learning and related
+  processes. The fearbase aims to accelerate cumulative
+  science and serves as a blueprint for collaborative
+  data-sharing initiatives in related fields.
+keywords:
+  - human fear conditioning
+  - fear learning
+  - research database
+license: CC0-1.0
+date-released: '2026-11-10'
