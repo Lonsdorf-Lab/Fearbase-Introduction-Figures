@@ -1,8 +1,7 @@
 cff-version: 1.2.0
 title: >-
-  Reproducible Code for the publication "The Fearbase, a 
-  growing database, living analysis platform, and collaborative 
-  consortium for human fear conditioning"
+  The Fearbase as a collaborative database and living analysis 
+  platform for human fear conditioning research
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
