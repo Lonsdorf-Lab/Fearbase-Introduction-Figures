@@ -5,7 +5,7 @@ This repository contains the reproducible code for figures 2-5 of the following 
 
 <div align="center"\>
 
-**The Fearbase, a growing database, living analysis platform, and collaborative consortium for human fear conditioning**
+**The Fearbase as a collaborative database and living analysis platform for human fear conditioning research**
 
 Maria Bruntsch<sup>1,2+</sup>, Tina B. Lonsdorf<sup>1,2+</sup>, Fritz Becker<sup>1</sup>, Annalena Witte<sup>1</sup>, Conrad Alting<sup>1</sup>, Joel Beckmann<sup>3</sup>, Katarina Blask<sup>3</sup>, Fearbase Consortium<sup>*</sup> & Mana R. Ehlers<sup>1</sup>
 </div>
