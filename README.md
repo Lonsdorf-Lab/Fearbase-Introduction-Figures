@@ -7,13 +7,16 @@ This repository contains the reproducible code for figures 2-5 of the following 
 
 **The Fearbase, a growing database, living analysis platform, and collaborative consortium for human fear conditioning**
 
-Maria Bruntsch1,2*, Tina B. Lonsdorf1,2*, Fritz Becker1, Annalena Witte1, Conrad Alting1, Joel Beckmann3, Katarina Blask3, Mana R. Ehlers1 & the Fearbase Consortium
+Maria Bruntsch1,2+, Tina B. Lonsdorf1,2+, Fritz Becker1, Annalena Witte1, Conrad Alting1, Joel Beckmann3, Katarina Blask3, Fearbase Consortium* & Mana R. Ehlers1
 </div>
 
 
-1 Bielefeld University, Department of Psychology, Biological Psychology and Cognitive Neuroscience, Bielefeld, Germany </br> 2 University Medical Center Hamburg-Eppendorf, Department of Systems Neuroscience, Hamburg, Germany </br> 3 Leibniz Institute for Psychology, Trier, Germany </br>
+1 Biological Psychology and Cognitive Neuroscience, Department of Psychology, Bielefeld University, Bielefeld, Germany </br> 
+2 Department of Systems Neuroscience, University Medical Center Hamburg-Eppendorf, Hamburg, Germany </br> 
+3 Leibniz Institute for Psychology, Trier, Germany </br>
 
-\* These authors contributed equally
+\* A list of authors and their affiliations appears at the end of the paper. </br>
+\+ These authors contributed equally
 
 ## Reproducible environment: rix
 
