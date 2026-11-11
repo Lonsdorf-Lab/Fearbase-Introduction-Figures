@@ -45,7 +45,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-1316-3787'
 identifiers:
   - type: doi
-    value: 10.XXXX/zenodo.XXXX
+    value: 10.5281/zenodo.24115417
 repository-code: >-
   https://github.com/Lonsdorf-Lab/Fearbase-Introduction-Figures
 abstract: >-
